@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_1" width="96" height="96">
+
+<defs>
+    <linearGradient transform="matrix(1 0 0 1 0 0)"  id="1" x1="0" y1="0" x2="48" y2="0">
+        <stop stop-color="#0069CC" offset="0%"/>
+        <stop stop-color="#164188" offset="100%"/>
+    </linearGradient>
+</defs>
+
+<g transform="matrix(2 0 0 2 0 0)">
+	<g>
+        <path d="M0 2C 0 0.8954305 0.8954305 0 2 0L2 0L46 0C 47.10457 0 48 0.8954305 48 2L48 2L48 46C 48 47.10457 47.10457 48 46 48L46 48L2 48C 0.8954305 48 0 47.10457 0 46L0 46L0 2z" stroke="none" fill="#FFFFFF" fill-rule="nonzero" />
+        <path d="M0 2C 0 0.8954305 0.8954305 0 2 0L2 0L46 0C 47.10457 0 48 0.8954305 48 2L48 2L48 46C 48 47.10457 47.10457 48 46 48L46 48L2 48C 0.8954305 48 0 47.10457 0 46L0 46L0 2z" stroke="none" fill="#FFFFFF" fill-rule="nonzero" />
+		<g>
+            <path d="M0 0L48 0L48 48L0 48L0 0z" stroke="none" fill="#FFFFFF" fill-rule="nonzero" />
+            <path d="M0 0L48 0L48 48L0 48L0 0z" stroke="none" fill="url(#1)" />
+			<g>
+                <path d="M27.95 9.336L30.785 13.292001L45.13 9.336L27.95 9.336zM13.046 40.135L20.806 32.587997L16.136 27.601997L13.046 40.135zM26.776 9.336L22.627998 13.056001L29.602999 13.316001L26.776 9.336zM10.652 9.336L12.142 12.374001L20.352001 12.882001L10.652001 9.336zM15.047 25.085L21.112 13.8289995L3.5 12.882L15.047 25.085zM15.753 25.798L21.483 31.92L27.802 25.758L29.762001 14.28L22.062 13.889L15.752001 25.798" stroke="none" fill="#FFFFFF" fill-rule="nonzero" />
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,40 @@
+# mkdocs.yml
+site_name: 'Mining Pool Server Proposal'
+
+theme:
+  name: "material"
+  custom_dir: "docs/jq_freelancer_theme"
+  logo: "img/logo-144px.png"
+  palette:
+    # primary: FFC107
+    accent: 'white'
+
+extra_css: 
+- css/dark_theme.css
+- css/codehilite.css
+- css/profont.css
+- css/freelancer.css
+
+plugins:
+- search
+
+nav:
+  # - 1. Intro: 'index.html'
+  - 1. Intro:
+        - CoiniumServ: '1_intro/CoiniumServ.md'
+        - NOMP: '1_intro/NOMP.md'
+        - CoiniumServ vs. NOMP: '1_intro/CoiniumServ_vs_NOMP.md'
+  - 2. High-level Requirements: '2_High_level_overview.md'
+  - 3. Pre-requisites: '3_pre-requisites.md'
+  - 4. Conditions of delivery: '4_conditions_of_delivery.md'
+  - 5. TODO: '5_TODO.md'
+
+  - Milestones:
+      - 'Set up a test server'
+
+
+
+edit_uri: '#docs/'
+
+markdown_extensions:
+  - codehilite

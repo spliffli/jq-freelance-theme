@@ -1,0 +1,4 @@
+# Conditions of delivery
+
+
+:: stub

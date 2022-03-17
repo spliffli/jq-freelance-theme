@@ -1,0 +1,3 @@
+# CoiniumServ vs. NOMP
+
+:: stub
